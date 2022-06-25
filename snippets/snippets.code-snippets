@@ -3,7 +3,7 @@
 		"prefix": "svc",
 		"body": [
 		  "<script>",
-		  "   ",
+      "  $0",
 		  "</script>",
 		  "",
 		  "<div>",
@@ -21,7 +21,7 @@
         "prefix": "svcsmc",
         "body": [
           "<script context=\"module\">",
-          "",
+          "  $0",
           "</script>",
           "",
           "<script>",
@@ -43,7 +43,7 @@
 		"prefix": "tssvc",
 		"body": [
 		  "<script lang=\"ts\">",
-		  "   ",
+		  "  $0",
 		  "</script>",
 		  "",
 		  "<div>",
@@ -61,7 +61,7 @@
         "prefix": "tssvcsmc",
         "body": [
           "<script lang=\"ts\" context=\"module\">",
-          "",
+          "  $0",
           "</script>",
           "",
           "<script lang=\"ts\">",
