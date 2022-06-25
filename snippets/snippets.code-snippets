@@ -14,7 +14,7 @@
 		  "   ",
 		  "</style>"
 		],
-		"description": "Svelte Basic TS Component"
+		"description": "Svelte Component"
 	  },
 
       "Svelte Component And Script Module Context": {
@@ -54,7 +54,7 @@
 		  "   ",
 		  "</style>"
 		],
-		"description": "Svelte Basic TS Component"
+		"description": "Typescript Svelte Component"
 	  },
 
       "Typescript Svelte Component And Script Module Context": {
