@@ -1,0 +1,99 @@
+{
+    "Svelte Component": {
+		"prefix": "svc",
+		"body": [
+		  "<script>",
+		  "   ",
+		  "</script>",
+		  "",
+		  "<div>",
+		  "   I love Svelte :)",
+		  "</div>",
+		  "",
+		  "<style>",
+		  "   ",
+		  "</style>"
+		],
+		"description": "Svelte Basic TS Component"
+	  },
+
+      "Svelte Component And Script Module Context": {
+        "prefix": "svcsmc",
+        "body": [
+          "<script context=\"module\">",
+          "",
+          "</script>",
+          "",
+          "<script>",
+          "   ",
+          "</script>",
+          "",
+          "<div>",
+          "   I love Svelte :)",
+          "</div>",
+          "",
+          "<style>",
+          "   ",
+          "</style>"
+        ],
+        "description": "Svelte Component And Script Module Context"
+      },
+
+      "Typescript Svelte Component": {
+		"prefix": "tssvc",
+		"body": [
+		  "<script lang=\"ts\">",
+		  "   ",
+		  "</script>",
+		  "",
+		  "<div>",
+		  "   I love Svelte :)",
+		  "</div>",
+		  "",
+		  "<style>",
+		  "   ",
+		  "</style>"
+		],
+		"description": "Svelte Basic TS Component"
+	  },
+
+      "Typescript Svelte Component And Script Module Context": {
+        "prefix": "tssvcsmc",
+        "body": [
+          "<script lang=\"ts\" context=\"module\">",
+          "",
+          "</script>",
+          "",
+          "<script lang=\"ts\">",
+          "   ",
+          "</script>",
+          "",
+          "<div>",
+          "   I love Svelte :)",
+          "</div>",
+          "",
+          "<style>",
+          "   ",
+          "</style>"
+        ],
+        "description": "Typescript Svelte Component And Script Module Context"
+      },
+
+      "HTML Comment": {
+        "prefix": "hc--",
+        "body": [
+          "<!-- $0 -->"
+        ],
+        "description": "HTML Comment"
+      },
+
+      "HTML Multiline Comment": {
+        "prefix": "hmc--",
+        "body": [
+          "<!--",
+          "$0",
+          "-->"
+        ],
+        "description": "HTML Multiline Comment"
+      }
+}
