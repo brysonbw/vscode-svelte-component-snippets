@@ -7,7 +7,7 @@ Visual Studio Code Extension for Svelte component snippets.
 
 ## Features
 
-Theses are simple Svelte component snippets :). I've also added html comment (and multiline) snippets. I recommend to pair and install this svelte snippet extension (Svelte Component Snippets) with [Svelte 3 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets).
+These are simple Svelte component snippets :). I've also added html comment (and multiline) snippets. I recommend to pair and install this svelte snippet extension (Svelte Component Snippets) with [Svelte 3 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets).
 
 ## Snippets
 
