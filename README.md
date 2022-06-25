@@ -1,13 +1,15 @@
 # Svelte Component Snippets
 
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/version/brysonbw.svelte-component-snippets.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=brysonbw.svelte-component-snippets)
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs/brysonbw.svelte-component-snippets.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=brysonbw.svelte-component-snippets)
 
-Visual Studio Code Extension for Svelte component snippets.
+Visual Studio Code Extension for adding Svelte component snippets.
 
-![snippets in action](https://res.cloudinary.com/ddlhtsgmp/image/upload/v1656119284/svelte-snips.gif)
+![snippets in action](https://res.cloudinary.com/ddlhtsgmp/image/upload/v1656174650/scs-vscode-snippets.gif)
 
 ## Features
 
-These are simple Svelte component snippets :). I've also added html comment (and multiline) snippets. I recommend to pair and install this svelte snippet extension (Svelte Component Snippets) with [Svelte 3 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets).
+These are simple Svelte component snippets. I've also added html single line and multiline comment snippets. I recommend to install [Svelte Component Snippets](https://marketplace.visualstudio.com/items?itemName=brysonbw.svelte-component-snippets) along with [Svelte 3 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets).
 
 ## Snippets
 
