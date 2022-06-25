@@ -5,7 +5,7 @@
 
 Visual Studio Code Extension for adding Svelte component snippets.
 
-![snippets in action](https://res.cloudinary.com/ddlhtsgmp/image/upload/v1656174650/scs-vscode-snippets.gif)
+![snippets in action](https://res.cloudinary.com/ddlhtsgmp/image/upload/c_crop,g_east,h_750,w_2405/v1656175839/scs-vscode-snippets.gif)
 
 ## Features
 
