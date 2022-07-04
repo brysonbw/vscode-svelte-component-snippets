@@ -40,8 +40,8 @@
         ],
         "snippets": [
             {
-                "languages": "svelte",
-                "path": "./snippets/snippets.code-snippets"
+                "language": "svelte",
+                "path": "./snippets/svelte.json"
             }
         ]
     }
