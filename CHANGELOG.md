@@ -1,9 +1,28 @@
 # Change Log
 
 All notable changes to the "svelte-component-snippets" extension will be documented in this file.
+Note - versions not listed in changelog were readme changes.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.2.0] - 2022-06-25
 
-## [Unreleased]
+### Changed
+- Edit prefix for svc and tssvc prefixes
 
-- Initial release
+## [0.5.0] - 2022-06-25
+
+### Added
+- Cursor now starts within top level script after entering prefixes for svelte component snippets 
+
+## [0.6.0] - 2022-07-04
+### Removed
+- Replaced snippets.code.json with svelte.json
+
+### Changed
+- Edit package.json
+  - Specified language for snippets and input correct path
+- Edit name for snippets in changelog
+
+## [0.7.0] - 2022-07-04
+
+### Added 
+- Update changelog
