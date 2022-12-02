@@ -26,3 +26,14 @@ Note - versions not listed in changelog were readme changes.
 
 ### Added 
 - Update changelog
+
+## [0.8.0] - 2022-12-02
+
+### Added 
+- Added style lang snippets
+   - PostCSS
+   - SASS/SCSS
+  
+### Changed
+ - Edit README: included style lang snippet expansions
+ - Update changelog
