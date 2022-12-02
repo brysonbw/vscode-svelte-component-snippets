@@ -19,6 +19,9 @@ These are simple Svelte component snippets. I've also added html single line and
 | svcsmc   | Svelte Component And Script Module Context |
 | tssvc    | Typescript Svelte Component                           |
 | tssvcsmc | Typescript Svelte Component And Script Module Context |
+| stylepostcss      | Style PostCSS                          |
+| stylesass      | Style SASS                          |
+| stylescss      | Style SCSS                          |
 | hc--     | HTML Comment           |
 | hmc--    | HTML Multiline Comment |
 
@@ -93,6 +96,30 @@ These are simple Svelte component snippets. I've also added html single line and
 </div>
 
 <style>
+   
+</style>
+```
+
+### stylepostcss - Style PostCSS
+
+```svelte
+<style lang="postcss">
+   
+</style>
+```
+
+### stylesass - Style SASS
+
+```svelte
+<style lang="sass">
+   
+</style>
+```
+
+### stylescss - Style SCSS
+
+```svelte
+<style lang="scss">
    
 </style>
 ```

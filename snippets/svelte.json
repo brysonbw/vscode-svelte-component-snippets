@@ -79,6 +79,36 @@
         "description": "Typescript Svelte Component And Script Module Context"
       },
 
+      "Style PostCSS": {
+        "prefix": "stylepostcss",
+        "body": [
+          "<style lang=\"postcss\">",
+          "  $0",
+          "</style>"
+        ],
+        "description": "Style PostCSS"
+      },
+
+      "Style SASS": {
+        "prefix": "stylesass",
+        "body": [
+          "<style lang=\"sass\">",
+          "  $0",
+          "</style>"
+        ],
+        "description": "Style SASS"
+      },
+
+      "Style SCSS": {
+        "prefix": "stylescss",
+        "body": [
+          "<style lang=\"scss\">",
+          "  $0",
+          "</style>"
+        ],
+        "description": "Style SCSS"
+      },
+
       "HTML Comment": {
         "prefix": "hc--",
         "body": [
